@@ -4,8 +4,12 @@ namespace ServerApp.Models
     {
         public int Id { get; set; }
 
-        public string MachineName { get; set; }
+        public string MachineName { get; set; } = string.Empty;
 
-        public string Status { get; set; }
+        public string IpAddress { get; set; }= string.Empty;
+
+        public string Status { get; set; }= string.Empty;
+
+        public string LastHeartbeat { get; set; }= string.Empty;
     }
 }

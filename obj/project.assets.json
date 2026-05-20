@@ -312,11 +312,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTM\\LTM.csproj",
+      "projectUniqueName": "D:\\HOCTAP\\LTM\\LTM.csproj",
       "projectName": "LTM",
-      "projectPath": "D:\\LTM\\LTM.csproj",
+      "projectPath": "D:\\HOCTAP\\LTM\\LTM.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\LTM\\obj\\",
+      "outputPath": "D:\\HOCTAP\\LTM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
